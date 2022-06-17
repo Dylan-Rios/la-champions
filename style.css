@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@400;700&family=Permanent+Marker&display=swap');
+
+*{
+    font-family: 'IBM Plex Serif', serif;
+    
+    color: white;
+    background-color: #041389;
+}
+
+header{
+    background-color: blue;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    font-weight: 700;
+
+}
+
+li a:hover{
+    color: black;
+    background-color: white;
+    padding: 6px;
+    border-radius: 9%;
+}
+
+li{
+    display: inline-block;
+    margin: 10px;
+}
+
+li a{
+    text-decoration: none;
+
+}
+
+.grupos{
+    font-size: xx-large;
+    text-align: center;
+    
+}
+
+th{
+    background-color: #0B0B0B;
+    font-size: xx-large;
+    text-align: center;
+    border-radius: 9%;
+}
+
